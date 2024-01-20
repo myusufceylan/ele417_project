@@ -1,0 +1,6 @@
+../Core/Src/servo.c:6:6:init_servo	16	static
+../Core/Src/servo.c:23:6:init_motor	16	static
+../Core/Src/servo.c:40:10:map_servo	0	static
+../Core/Src/servo.c:46:10:map_motor	0	static
+../Core/Src/servo.c:52:6:servo_angle	16	static
+../Core/Src/servo.c:66:6:motor_speed	16	static

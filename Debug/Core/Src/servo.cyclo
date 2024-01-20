@@ -1,0 +1,6 @@
+servo.c:6:6:init_servo	7
+servo.c:23:6:init_motor	7
+servo.c:40:10:map_servo	1
+servo.c:46:10:map_motor	1
+servo.c:52:6:servo_angle	7
+servo.c:66:6:motor_speed	7
