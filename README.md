@@ -1,8 +1,8 @@
 # ELE 417 Embedded System Design: Term Project
 
-## Autopilot for Ground Vehicle
+## Autopilot for Unmanned Ground Vehicle
 
-This project is prepared for the term project of the embedded system design lecture for fall term of 2023-2024 year. The subject of this project is "Autopilot for Ground Vehicle" as concept.
+This project is prepared for the term project of the embedded system design lecture for fall term of 2023-2024 year. The subject of this project is "Autopilot for Unmanned Ground Vehicle" as concept.
 
 ## Contributor
 
